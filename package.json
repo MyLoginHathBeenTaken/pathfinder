@@ -1,0 +1,23 @@
+{
+  "name": "@arslogin/pathfinder",
+  "version": "1.0.0",
+  "description": "Pathfinder is a simple platform agnostic configuration file interface for simple key value pairs and json structures.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MyLoginHathBeenTaken/pathfinder.git"
+  },
+  "keywords": [
+    "config",
+    "configuration"
+  ],
+  "author": "ArsLogin, MyLoginHathBeenTaken",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MyLoginHathBeenTaken/pathfinder/issues"
+  },
+  "homepage": "https://github.com/MyLoginHathBeenTaken/pathfinder#readme"
+}
